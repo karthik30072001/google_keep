@@ -1,0 +1,42 @@
+.createform{
+    position: relative;
+    width: 600px;
+    margin: 32px auto 50px auto;
+    background: #fff;
+    padding: 7px;
+    border-radius: 7px;
+    box-shadow: 0 1px 7px rgb(128, 128, 128);
+
+}
+form input{
+    width: 98%;
+    padding: 4px 10px;
+    border: none;
+    margin-bottom: 20px;
+    outline: none;
+    font-size: 1rem;
+    resize: none;
+}
+form textarea{
+    width: 97%;
+    padding: 4px 10px;
+    border: none;
+    
+    outline: none;
+    font-size: 1rem;
+}
+form button{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    right: 10px;
+    background: rgb(251,188,4);
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    bottom: -10px;
+    border: none;
+    color: rgb(222, 215, 215);
+    box-shadow: 0 1px 3px rgb(139, 138, 138);
+}

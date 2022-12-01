@@ -1,0 +1,17 @@
+.icons{
+    height: 22px;
+    width: 22px;
+    margin: 0 3px;
+    padding: 10px;
+}
+button{
+
+    border: 0em;
+    background-color: transparent;
+    cursor: pointer;
+}
+.right{
+    margin-left: 570px;
+    margin-right: 0em;
+    background-color: transparent;
+}

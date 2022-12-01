@@ -1,0 +1,12 @@
+form.searchBox input[type=text]{
+    padding: 10px;
+    box-sizing: border-box;
+    background: #f1f1f1;
+    font-size: 17px;
+    border: 0px solid gray;
+    width: 200%;
+    border-radius: 10px;
+    margin-left: 100px;
+    display: inline-block;
+    
+}
